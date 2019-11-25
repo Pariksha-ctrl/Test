@@ -3,3 +3,6 @@ dog
 mouse
 chicken
 pangolin
+Sea lion
+Elephant 
+Bullet Ant
